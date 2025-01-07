@@ -75,7 +75,7 @@
 [<img src="/base_eng.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса ENG»">](https://raw.githubusercontent.com/CoreyDraven/CoreyDraven/refs/heads/main/base_eng.png)
 [<img src="/base_rus.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса»">](https://raw.githubusercontent.com/CoreyDraven/CoreyDraven/refs/heads/main/base_rus.png)
 [<img src="/cert_eng.png" width="280px" hspace="10px" alt="Сертификат Инженер по тестированию ENG»">](https://raw.githubusercontent.com/CoreyDraven/CoreyDraven/refs/heads/main/cert_eng.png)
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Инженер по тестированию»">](https://raw.githubusercontent.com/CoreyDraven/CoreyDraven/refs/heads/main/cert_rus.png)
+[<img src="/cert_rus" width="280px" hspace="10px" alt="Инженер по тестированию»">](https://raw.githubusercontent.com/CoreyDraven/CoreyDraven/refs/heads/main/cert_rus.png)
 
 <br>
 <br>
